@@ -1,6 +1,6 @@
-# Page Title
+# Class Project 
 
-A short introduction for the top of your main page
+welcome to my website, this website will
 
 
 More content you want on your page
