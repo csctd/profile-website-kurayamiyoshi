@@ -1,2 +1,1 @@
-
-![Bunny!](_static/img/20230728_201918.jpg "Bunny")
+![The Bunny!](/assets/images/20230729_201918.jpg "The bunny")
