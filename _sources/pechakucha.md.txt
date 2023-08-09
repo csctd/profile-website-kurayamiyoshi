@@ -1,1 +1,1 @@
-![mental Health](_static/img/mentalhealth.jpg)
+![mental Health](_static/img/mentalhealth.png)
