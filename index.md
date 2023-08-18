@@ -1,7 +1,6 @@
 # Class Project 
 
-welcome to my website, this website will  
-be about the experience of TD 
+welcome to my website, this website will be about the experience of TD 
 
 
 More content you want on your page
