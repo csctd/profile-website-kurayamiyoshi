@@ -1,8 +1,10 @@
 # -- Project information -----------------------------------------------------
 
-project = 'TD Program'
-copyright = '2022, Your name'
-author = 'Your Name'
+
+project = 'Class Project'
+copyright = '2023, Xavier Banzer'
+author = 'Xavier Banzer'
+
 
 
 
