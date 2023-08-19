@@ -23,7 +23,7 @@ To do so, follow these steps:
 
 1. Install `nox`.
 
-   ```shell
+         ```shell
    pip install -U nox
    ```
 2. To run a live webserver that will auto-build and reload when you make changes, run:
